@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import HomepageDescription from "@site/src/components/HomepageDescription";
 
 import styles from "./index.module.css";
 
@@ -34,9 +34,9 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="Advent of Code solutions in Typescript"
     >
-      <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <HomepageHeader />
+        <HomepageDescription />
       </main>
     </Layout>
   );
