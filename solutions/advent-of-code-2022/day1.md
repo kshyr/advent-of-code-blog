@@ -2,13 +2,7 @@
 sidebar_position: 1
 ---
 
-# Day 1
-
-***To be updated.***
-
-# 🎄 Advent of Code 2022 🎄 <br />
-
-## --- Day 1: Calorie Counting ---
+# Day 1: Calorie Counting
 
 <br />
 
@@ -83,7 +77,7 @@ return largestSum;
 
 <br />
 
-## 🎄 Part Two 🎄
+## Part Two 
 
 <br />
 
